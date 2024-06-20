@@ -1,0 +1,1 @@
+My 4th assignment, and one that felt like a good refresh on lists. My experience in mainly js but also some python means that these serve to make sure I'm not missing out on any basic funcationality that I just haven't had a need for yet.
